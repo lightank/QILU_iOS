@@ -1,0 +1,19 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://cdn.cocoapods.org/'
+
+platform :ios, '11.0'
+inhibit_all_warnings!
+# use_frameworks!
+
+target 'QILU' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for QILU
+  pod 'SwifterSwift', '5.2.0' 
+  pod 'Moya', '14.0.0'
+  pod 'SwiftyJSON', '5.0.0'
+  pod 'RAMAnimatedTabBarController', '5.1.0'
+
+end

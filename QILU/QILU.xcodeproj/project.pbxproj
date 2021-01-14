@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3DF6FDF625AFE8B4009B2AE7 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF6FDF525AFE8B4009B2AE7 /* MainTabBarController.swift */; };
 		3DF7118225ADE880001D5EB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF7118125ADE880001D5EB3 /* AppDelegate.swift */; };
 		3DF7118625ADE880001D5EB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF7118525ADE880001D5EB3 /* ViewController.swift */; };
 		3DF7118925ADE880001D5EB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DF7118725ADE880001D5EB3 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		0E26DF9EBE88ACD89F9EC6D1 /* Pods-QILU.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QILU.release.xcconfig"; path = "Target Support Files/Pods-QILU/Pods-QILU.release.xcconfig"; sourceTree = "<group>"; };
+		3DF6FDF525AFE8B4009B2AE7 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
 		3DF7117E25ADE880001D5EB3 /* QILU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QILU.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF7118125ADE880001D5EB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DF7118525ADE880001D5EB3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				3DF7118125ADE880001D5EB3 /* AppDelegate.swift */,
 				3DF7118525ADE880001D5EB3 /* ViewController.swift */,
+				3DF6FDF525AFE8B4009B2AE7 /* MainTabBarController.swift */,
 				3DF7118725ADE880001D5EB3 /* Main.storyboard */,
 				3DF7118A25ADE881001D5EB3 /* Assets.xcassets */,
 				3DF7118C25ADE881001D5EB3 /* LaunchScreen.storyboard */,
@@ -204,6 +207,7 @@
 			files = (
 				3DF7118625ADE880001D5EB3 /* ViewController.swift in Sources */,
 				3DF7118225ADE880001D5EB3 /* AppDelegate.swift in Sources */,
+				3DF6FDF625AFE8B4009B2AE7 /* MainTabBarController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
